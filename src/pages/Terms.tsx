@@ -86,7 +86,7 @@ export default function Terms() {
             diponegorolaundry@gmail.com
           </a>
         </li>
-        <li>Telepon: 0812-3456-7890</li>
+        <li>Telepon: +62 813-2927-9988</li>
         <li>Alamat: Jl. Diponegoro No. 45, Semarang</li>
       </ul>
 
