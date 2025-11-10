@@ -12,7 +12,7 @@ export default function Footer() {
               <h3 className="text-2xl font-bold">Diponegoro Laundry</h3>
             </div>
             <p className="text-blue-200 leading-relaxed">
-              Laundry terpercaya di Semarang dengan layanan antar jemput gratis untuk area Tembalang
+              Laundry terpercaya di Semarang dengan layanan antar jemput gratis untuk area Diponegoro
             </p>
           </div>
 
