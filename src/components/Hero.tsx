@@ -23,7 +23,7 @@ export default function Hero() {
 
         <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 mb-10 inline-block border border-white/20">
           <p className="text-2xl md:text-3xl">
-            Pengantaran Gratis untuk Area <span className="font-bold text-blue-400">Diponegoro</span>
+            Pengantaran Gratis untuk Area <span className="font-bold text-blue-400">Kesatrian</span>
           </p>
         </div>
 
