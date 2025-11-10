@@ -14,7 +14,7 @@ export default function Testimonials() {
     },
     {
       name: 'Yuania',
-      review: 'Laundry terbaik di Tembalang! Cucian rapi, wangi tahan lama. Pelayanan ramah dan profesional.',
+      review: 'Laundry terbaik di Diponegoro! Cucian rapi, wangi tahan lama. Pelayanan ramah dan profesional.',
       rating: 5,
     },
     {
@@ -43,7 +43,7 @@ export default function Testimonials() {
           {testimonials.map((testimonial, index) => (
             <div
               key={index}
-              className="bg-white rounded-2xl p-8 shadow-lg border-2 border-pink-100 hover:border-pink-300 transition-all"
+              className="bg-white rounded-2xl p-8 shadow-lg border-2 border-pink-100 hover:border-blue-700 transition-all"
             >
               <div className="flex justify-center mb-4 space-x-1">
                 {[...Array(testimonial.rating)].map((_, i) => (
