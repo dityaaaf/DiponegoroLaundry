@@ -23,11 +23,11 @@ export default function Hero() {
         </h1>
 
         {/* Kalimat utama */}
-        <h2 className="text-5xl md:text-7xl font-bold mb-8 drop-shadow-lg">
-          Tinggal Japri Jadi Sendiri, Tanpa Antri, Wangi Bebas Bakteri, Tinggal Pilih Waktu Jadi, Antar Jemput Disegala Hari
+        <h2 className="text-3xl md:text-6xl font-bold mb-8 drop-shadow-lg">
+          Tinggal Japri Jadi Sendiri  <br />Tanpa Antri <br /> Wangi Bebas Bakteri <br /> Tinggal Pilih Waktu Jadi <br /> Antar Jemput Disegala Hari
         </h2>
 
-        <div className="bg-white/10 backdrop rounded-2xl p-8 mb-10 inline-block border border-white/20">
+        <div className="bg-white/10 backdrop rounded-2xl p-4 mb-10 inline-block border border-white/20">
           <p className="text-2xl md:text-3xl">
             Antar Jemput Gratis untuk Area <span className="font-bold text-blue-400">Kesatrian</span>
           </p>
