@@ -17,13 +17,19 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-br from-blue-900/80 via-blue-400/20 to-pink-900/40"></div>
 
       <div className="relative z-10 container mx-auto px-4 py-32 text-center text-white">
+        {/* Judul baru */}
+        <h1 className="text-4xl md:text-6xl font-extrabold mb-6 drop-shadow-lg text-blue-300">
+          DIPONEGORO LAUNDRY
+        </h1>
+
+        {/* Kalimat utama */}
         <h2 className="text-5xl md:text-7xl font-bold mb-8 drop-shadow-lg">
-          Laundry Cepat, Bersih, Wangi dan OnTime dengan Antar Jemput Gratis
+          Tinggal Japri Jadi Sendiri, Tanpa Antri, Wangi Bebas Bakteri, Tinggal Pilih Waktu Jadi, Antar Jemput Disegala Hari
         </h2>
 
-        <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 mb-10 inline-block border border-white/20">
+        <div className="bg-white/10 backdrop rounded-2xl p-8 mb-10 inline-block border border-white/20">
           <p className="text-2xl md:text-3xl">
-            Pengantaran Gratis untuk Area <span className="font-bold text-blue-400">Kesatrian</span>
+            Antar Jemput Gratis untuk Area <span className="font-bold text-blue-400">Kesatrian</span>
           </p>
         </div>
 
